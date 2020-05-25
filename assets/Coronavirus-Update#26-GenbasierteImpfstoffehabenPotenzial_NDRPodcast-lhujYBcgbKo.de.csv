@@ -1,0 +1,1239 @@
+text,start,stop
+"Untertitel:
+Norddeutscher Rundfunk 2020",00:00:00.240,00:00:02.840
+Das Coronavirus-Update.,00:00:04.320,00:00:07.240
+"Wir sind wieder da mit einer
+neuen Folge unseres Updates.",00:00:09.200,00:00:13.080
+"Christian Drosten
+hat wieder ausreichend Stimme,",00:00:13.160,00:00:16.800
+um ein bisschen zu sprechen.,00:00:16.880,00:00:19.160
+"Nachdem er krankheitsbedingt
+gestern aussetzen musste.",00:00:19.240,00:00:22.760
+Nicht bedingt durch das Coronavirus.,00:00:22.840,00:00:25.440
+"Heute ist Donnerstag,
+der 2. April 2020.",00:00:25.520,00:00:28.240
+Ich bin Korinna Hennig.,00:00:28.320,00:00:30.400
+"Wir wollen
+über ein Hoffnungsthema sprechen,",00:00:30.480,00:00:33.720
+"das den Laien
+zugleich oft verzweifeln lässt.",00:00:33.800,00:00:36.880
+Ein Impfstoff muss her.,00:00:36.960,00:00:38.680
+"Der Verband Forschender
+Arzneimittelhersteller",00:00:38.760,00:00:41.880
+"zählt weltweit mindestens
+60 Impfstoffprojekte zum SARS-CoV-2.",00:00:41.960,00:00:46.240
+"Ein bis anderthalb Jahre
+ist die Zahl,",00:00:46.320,00:00:48.960
+"auf die sich
+fast alle geeinigt haben.",00:00:49.040,00:00:51.720
+"So lange wird es dauern,
+bis ein Impfstoff geprüft ist,",00:00:51.800,00:00:55.880
+"und zugelassen, um in großer
+Menge produziert zu werden.",00:00:55.960,00:00:59.720
+Wie ein Impfstoff funktionieren kann,00:00:59.800,00:01:02.280
+"und ob man an der Dauer
+nichts ändern kann:",00:01:02.360,00:01:05.480
+"Darüber sprechen wir
+mit Professor Christian Drosten.",00:01:05.560,00:01:09.640
+"Per App zugeschaltet
+aus der Berliner Charite.",00:01:09.720,00:01:12.840
+"Guten Tag, Herr Drosten.
+Guten Tag.",00:01:12.920,00:01:15.440
+"Heute hat die Frage einen konkreten
+Hintergrund: Wie geht es Ihnen?",00:01:15.520,00:01:20.200
+"Ja,
+die Stimme kommt langsam wieder,",00:01:20.280,00:01:22.720
+"aber man hört noch,
+dass es etwas kratzt.",00:01:22.800,00:01:25.720
+"Wie ist das bei Ihnen im Institut,
+wenn jemand systemrelevant ist,",00:01:25.800,00:01:30.880
+dann auch Sie alle in der Forschung.,00:01:30.960,00:01:33.760
+Testen Sie sich engmaschig?,00:01:33.840,00:01:36.080
+"Wir haben gehört, dass Sie negativ
+getestet sind aufs Coronavirus.",00:01:36.160,00:01:40.520
+"Es ist in der Charite
+wie in anderen Universitäten auch,",00:01:40.600,00:01:44.240
+"dass eigentlich
+die Forschung stillstehen soll.",00:01:44.320,00:01:47.600
+"Aber die Forschung
+an dieser Erkrankung,",00:01:47.680,00:01:50.440
+"vor allem je näher am Patienten,
+umso mehr ist es systemrelevant.",00:01:50.520,00:01:54.920
+Wir helfen uns da auch selbst.,00:01:55.000,00:01:57.080
+"Das heißt,
+hier intern testen wir uns selber.",00:01:57.160,00:02:00.240
+"Wir machen jeden Tag
+Teste von Mitarbeitern,",00:02:00.320,00:02:03.360
+deswegen ist es relativ einfach.,00:02:03.440,00:02:05.760
+"Ich bin im Verlauf meiner Erkältung
+zweimal getestet worden.",00:02:05.840,00:02:09.760
+"Ich hatte irgendwann das Gefühl,
+das zieht sich schon lange.",00:02:09.840,00:02:14.200
+"Der Test war negativ
+in beiden Fällen? Ja.",00:02:14.280,00:02:17.480
+"Wir wollen
+das Thema Impfstoffe anpacken,",00:02:17.560,00:02:20.440
+"das ein schwieriges
+und unübersichtliches ist.",00:02:20.520,00:02:23.760
+Wir haben eine seltsame Situation.,00:02:23.840,00:02:26.240
+"So schnell wie das gegenwärtig geht,",00:02:26.320,00:02:28.800
+"ist Impfstoffentwicklung
+sonst nie abgelaufen.",00:02:28.880,00:02:32.040
+"Aus den USA wurden schon Anfänge
+von Tests an Probanden vermeldet.",00:02:32.120,00:02:36.360
+"Trotzdem ist das
+immer noch zu langsam,",00:02:36.440,00:02:39.160
+"weil längere Phasen
+der Testung vorgeschrieben sind.",00:02:39.240,00:02:42.840
+"Wir brauchen eine Abkürzung
+bei der Impfstoffzulassung.",00:02:42.920,00:02:46.600
+Was passiert da überhaupt?,00:02:46.680,00:02:48.680
+"Worauf zielen
+die Impfstoffkandidaten ab?",00:02:48.760,00:02:51.600
+Vorher frage ich:,00:02:51.680,00:02:53.120
+"An welcher Stelle in dem Prozess
+ist so eine Abkürzung denkbar?",00:02:53.200,00:02:58.200
+"Diese Abkürzung ist denkbar
+und schon längst vorgesehen.",00:02:58.560,00:03:02.480
+"Was man machen kann, ist,",00:03:02.560,00:03:04.840
+"dass man Vektoren benutzt,
+Vakzine-Vektoren, die man kennt.",00:03:04.920,00:03:09.320
+"Also Träger sozusagen.
+Richtig, genau.",00:03:09.400,00:03:12.000
+"Wir sprechen manchmal von Backbone,
+das Rückgrat dieses Impfstoffes.",00:03:12.080,00:03:17.160
+"Das sind dann häufig
+bestimmte Trägerimpfstoffe,",00:03:17.240,00:03:21.360
+"eins das gut funktioniert,
+ist MVA, Modified-Vaccinia-Ankara.",00:03:21.440,00:03:27.080
+"Das ist
+eine Vaccinia-Virusvariante.",00:03:27.160,00:03:30.160
+"Damit hat man früher
+Pockenimpfungen gemacht.",00:03:30.240,00:03:34.000
+"Und das ist ein extrem
+gut verträglicher Impfstoffträger.",00:03:34.080,00:03:39.080
+"In dieses System
+kann man Proteine oder Antigene",00:03:39.720,00:03:43.320
+aus dem Coronavirus reinklonieren.,00:03:43.400,00:03:46.760
+Das kann man im Menschen applizieren,00:03:47.280,00:03:49.920
+"und kriegt eine Immunantwort
+auf diese Proteine des Coronavirus.",00:03:50.000,00:03:54.640
+"Natürlich muss man, wenn so
+ein Impfstoff ausprobiert wird,",00:03:54.720,00:03:58.760
+"viel in der präklinischen Phase
+machen.",00:03:58.840,00:04:01.840
+"Also ganz viel ausprobieren,",00:04:01.920,00:04:03.920
+"bevor überhaupt der erste Mensch
+irgendwann damit behandelt wird.",00:04:04.000,00:04:08.440
+"Aber bei diesem Trägersystem, das
+gilt auch für andere Trägersysteme,",00:04:08.520,00:04:13.280
+"kennt man aus anderen Erkrankungen
+ganz viel an Sicherheitsdaten.",00:04:13.360,00:04:17.720
+"Für deren Impfstoffe wurden
+auch diese Trägersysteme benutzt.",00:04:17.800,00:04:21.880
+"Man weiß genau und muss das auch
+nicht mehr alles wiederholen,",00:04:21.960,00:04:26.280
+"wie zum Beispiel
+Versuchstiere darauf reagieren.",00:04:26.360,00:04:29.720
+"Wie zum Beispiel auch
+die Grundlösung des Impfstoffes",00:04:29.800,00:04:33.400
+vertragen wird und so weiter.,00:04:33.480,00:04:35.720
+"Ganz viele Dinge,
+auch pharmakokinetische Fragen.",00:04:35.800,00:04:39.280
+"Wie verteilt sich das im Muskel,
+wenn man das in den Muskeln spritzt?",00:04:39.360,00:04:44.400
+Diese Dinge sind schon geklärt.,00:04:44.480,00:04:46.680
+"Es ist nicht zu erwarten, dass bei
+dieser geringfügigen Veränderung",00:04:46.760,00:04:51.680
+"eines bekannten Trägersystems bei
+der Anpassung auf das andere Virus",00:04:51.760,00:04:56.440
+"relevante Unterschiede an diesen
+wichtigen Stellen passieren können.",00:04:56.520,00:05:01.600
+"Man hat in diesem Fall für das
+MERS-Virus Erfahrung bei dem MVA.",00:05:01.680,00:05:06.520
+"Und bei anderen Trägervehikeln,
+bei anderen Vektoren,",00:05:06.600,00:05:11.400
+"hat man auch Erfahrung für
+Impfziele für andere Krankheiten.",00:05:11.480,00:05:16.360
+"Das sind dann immer nur noch
+ganz geringfügige Anpassungen.",00:05:16.440,00:05:20.840
+"Ist das das Prinzip, was wir
+von der Masernimpfung kennen?",00:05:21.520,00:05:25.440
+"Abgeschwächte andere Viren
+sind der Träger",00:05:25.520,00:05:28.280
+"und werden gentechnisch verkleidet,
+sodass man das Protein austauscht?",00:05:28.360,00:05:33.560
+"Bei der Masernimpfung haben wir
+ein attenuiertes Lebendvirus.",00:05:33.640,00:05:37.800
+Das ist ein Masernvirus.,00:05:37.880,00:05:39.600
+"Was wir machen können zum Teil,
+das ist eins der Trägersysteme,",00:05:39.680,00:05:44.360
+"man kann auch
+das Masernvirus so verändern:",00:05:44.440,00:05:48.240
+"Dass die Informationen
+für die Impfung",00:05:48.320,00:05:51.120
+"auch für das neue
+SARS-2-Virus mitgebracht wird.",00:05:51.200,00:05:55.000
+"Das ist einer der Ansätze,",00:05:55.080,00:05:57.040
+"die diskutiert werden
+in der Impfstoffentwicklung.",00:05:57.120,00:06:00.720
+"Diese Abkürzung
+ist bereits eingepreist,",00:06:00.800,00:06:04.040
+gibt es andere Möglichkeiten?,00:06:04.120,00:06:06.720
+"Wir haben darüber gesprochen,
+wie wichtig klinische Testung ist,",00:06:06.800,00:06:11.520
+"dass man die Sicherheit
+und Unverträglichkeit testet.",00:06:11.600,00:06:15.360
+"Dass man es im Tierversuch testet
+und erst in Phase drei",00:06:15.440,00:06:19.480
+"große Kohortenstudien
+mit vielen Probanden macht.",00:06:19.560,00:06:22.880
+"Kann man da Prozesse
+parallel ablaufen lassen?",00:06:22.960,00:06:26.040
+"Man kann die präklinische
+Evaluierung stark abkürzen,",00:06:26.120,00:06:30.760
+"weil man eben schon weiß, dass
+die Impfstoffe gut vertragen werden.",00:06:30.840,00:06:36.520
+"Und dass man dann
+eine Verträglichkeitsstudie",00:06:36.600,00:06:39.960
+"in einer Gruppe von Probanden macht
+beim Menschen.",00:06:40.040,00:06:43.480
+"Wenn das gut vertragen wird,
+dass man dann schnell ausdehnt.",00:06:43.560,00:06:47.680
+"Also dass man nach
+einer ersten Wirksamkeitsstudie",00:06:47.760,00:06:51.160
+relativ schnell in die Breite geht.,00:06:51.240,00:06:53.720
+"Dann ist immer die Frage,
+die wird jetzt auch diskutiert,",00:06:53.800,00:06:57.960
+"da findet man Kommentarartikel
+in der medizinischen Literatur:",00:06:58.040,00:07:02.920
+"Wie geht man um mit einer Situation,
+wo dann gesagt werden würde:",00:07:03.000,00:07:08.960
+"Hier gibt's eine Krisengruppe
+von Freiwilligen,",00:07:09.040,00:07:12.240
+"die sind alle gesund
+und die wären bereit.",00:07:12.320,00:07:15.200
+"Die würden den Ärmel hochkrempeln
+und sagen:",00:07:15.280,00:07:18.120
+"Impft mich doch und gib mir
+das echte Virus in den Hals.",00:07:18.200,00:07:22.040
+"Damit ich mich infiziere,",00:07:22.120,00:07:24.040
+"damit der Impfstoff beweisen kann,
+dass er mich geschützt hat.",00:07:24.120,00:07:28.360
+"Diese einfache Überlegung,
+der heroische Freiwillige,",00:07:28.440,00:07:32.120
+"wie man damit umgeht,
+das ist nicht so einfach.",00:07:32.200,00:07:35.440
+"Die Person meint das erst mal gut
+und möchte,",00:07:35.520,00:07:39.040
+"dass man schnell zu
+einem zugelassenen Impfstoff kommt.",00:07:39.120,00:07:43.000
+"Diese Person
+kann das nicht beurteilen.",00:07:43.080,00:07:45.960
+"Da gibt es einen Versuchsleiter,
+Arzt und Wissenschaftler,",00:07:46.040,00:07:50.240
+der eben viele Dinge bedenken muss.,00:07:50.320,00:07:52.840
+"Man kann nicht einfach irgendwem
+ein Laborvirus in den Hals geben,",00:07:52.920,00:07:58.120
+damit er sich infiziert.,00:07:58.200,00:08:00.840
+Die Frage ist ja:,00:08:01.520,00:08:02.880
+"Wie viel Virus ist das überhaupt
+in der natürlichen Infektion?",00:08:02.960,00:08:07.120
+"Diese Belastungsinfektionen
+kennt man im Tierversuch.",00:08:07.200,00:08:10.760
+"Da gibt man Labortieren eine
+definierte Dosis von einem Virus.",00:08:10.840,00:08:15.200
+"Dann schaut man, ob die zuvor
+durchgeführte Impfung auch schützt,",00:08:15.280,00:08:20.120
+"das kann man nicht einfach so
+auf den Menschen übertragen.",00:08:20.200,00:08:24.200
+"Man weiß gar nicht, wie sich
+der normale Patient infiziert,",00:08:24.280,00:08:28.240
+draußen mit dem Virus.,00:08:28.320,00:08:30.120
+"Bei Studien,
+wo man vieles abkürzen möchte:",00:08:30.200,00:08:34.520
+"Da braucht man eine andere Art
+von parallel durchgeführten",00:08:34.600,00:08:39.640
+"Belastungsexperimenten
+in einem guten Tiermodell.",00:08:39.720,00:08:43.720
+Da kommt man nicht drum herum.,00:08:43.800,00:08:46.040
+"Eine Frage, die sich im Moment
+zum Beispiel stellt, ist:",00:08:46.120,00:08:49.800
+"Was ist ein gutes Tiermodell?
+Die hätte ich auch gestellt.",00:08:49.880,00:08:53.920
+"Es gibt neuere Informationen bei
+diesem Virus, wo man sagen kann,",00:08:54.000,00:08:59.040
+"da stellen sich
+erste Tiermodelle raus.",00:08:59.120,00:09:01.880
+"Nicht jedes gute Tiermodell,
+bei dem das Virus repliziert",00:09:01.960,00:09:06.240
+"im Rachen oder in der Lunge,
+ist gleich ein gutes Impfmodell.",00:09:06.320,00:09:11.840
+"Das Immunsystem der Tiere
+ist unterschiedlich",00:09:12.640,00:09:15.680
+von dem des Menschen.,00:09:15.760,00:09:17.480
+"Häufig ist das Krankheitsbild
+bei diesen Versuchstieren",00:09:17.560,00:09:21.320
+nicht ausgeprägt.,00:09:21.400,00:09:22.920
+"Man sieht nur, das Virus repliziert,",00:09:23.000,00:09:25.560
+"aber die Tiere
+werden nicht wirklich krank.",00:09:25.640,00:09:28.600
+"Deswegen muss man da
+schon sehr genau hinschauen.",00:09:28.680,00:09:32.080
+"Die Alternative ist etwas,
+das man nicht gerne machen will,",00:09:32.160,00:09:36.280
+"das ist ethisch schwierig,
+das sind Primatenversuche.",00:09:36.360,00:09:40.000
+"Man versucht nicht, man macht
+keine Menschenaffenversuche,",00:09:40.080,00:09:44.120
+"so etwas gibt es gar nicht mehr
+in diesem Thema.",00:09:44.200,00:09:47.440
+"Aber Makaken zum Beispiel,
+Rhesusäffchen,",00:09:47.520,00:09:50.480
+"so etwas macht man
+in sehr limitierter Art und Weise.",00:09:50.560,00:09:55.280
+"Bei Primaten
+ist das Immunsystem ähnlicher",00:09:56.080,00:09:59.160
+wie das Immunsystem des Menschen.,00:09:59.240,00:10:02.400
+"So etwas braucht man dann
+ab einem bestimmten Zeitpunkt",00:10:02.480,00:10:07.040
+"des sich Verlassens
+auf einen Impfstoff.",00:10:07.440,00:10:10.320
+"Da möchte man
+solche Daten dann schon auch sehen.",00:10:10.400,00:10:13.760
+"Dann gibt es davon abgesehen
+eine ganz andere Argumentation.",00:10:13.840,00:10:17.840
+"In dieser Situation,
+die wir im Moment haben,",00:10:17.920,00:10:21.000
+"findet viel draußen statt
+an Infektionsereignissen.",00:10:21.080,00:10:25.680
+"Das ist eine Situation, wo man in
+breiter angelegten Wirkungsstudien",00:10:26.240,00:10:32.400
+von einem Impfstoff im Menschen ...,00:10:32.480,00:10:36.720
+"Man sagt nicht, man infiziert
+die Impflinge nach der Impfung.",00:10:37.560,00:10:43.040
+"Sondern man sagt,
+man impft Personen und man misst,",00:10:43.120,00:10:47.240
+ob die Antikörper kriegen.,00:10:47.320,00:10:49.360
+"Oder man misst,
+ob deren Immunzellen anspringen",00:10:49.440,00:10:52.600
+"und reagieren gegen das Virus,
+das kann man im Reagenzglas testen.",00:10:52.680,00:10:57.040
+"Man nimmt Personen
+nach der Impfung Blut ab",00:10:57.120,00:11:00.080
+"und gewinnt dann Immunzellen
+aus dem Blut.",00:11:00.160,00:11:03.040
+"Dann misst man,
+ob diese Immunzellen",00:11:03.120,00:11:05.560
+"empfindlich geworden sind
+gegen das Virus im Reagenzglas.",00:11:05.640,00:11:09.440
+Solche Teste macht man dann.,00:11:09.520,00:11:11.520
+Es gibt Wissenschaftler ...,00:11:11.600,00:11:13.600
+"Ich muss wieder mal dazu sagen,
+ich bin kein Impfstoffforscher.",00:11:13.680,00:11:17.720
+"Ich bin ein allgemeiner
+Wald- und Wiesen-Virologe,",00:11:17.800,00:11:21.120
+"vielleicht mit Spezialkenntnissen
+zu epidemischen Coronaviren.",00:11:21.200,00:11:25.200
+Aber die Impfstoffforschung,00:11:25.280,00:11:27.200
+"wird immer mehr
+zu einer eigenen Wissenschaft.",00:11:27.280,00:11:30.440
+Da stecke ich nicht mittendrin.,00:11:30.520,00:11:32.800
+"Es gibt eben Impfstoffforscher,",00:11:32.880,00:11:35.200
+"die sich damit
+viel besser auskennen als ich.",00:11:35.280,00:11:38.320
+"Die publizieren
+jetzt auch Stellungnahmen.",00:11:38.400,00:11:41.760
+"Es gibt diese Impfstoffe,
+die wir gut kennen,",00:11:42.200,00:11:45.280
+"wo wir genau wissen,
+die sind gut verträglich.",00:11:45.360,00:11:48.480
+"Da steigen wir vielleicht
+schon im späten Sommer",00:11:48.560,00:11:52.320
+in breit angelegte Studien ein:,00:11:52.400,00:11:55.240
+"Zur Bestimmung
+der Wirkung dieser Impfung,",00:11:55.320,00:11:59.120
+also der Reagenzglas-Wirkung.,00:11:59.520,00:12:01.600
+Kriegt der Patient Antikörper?,00:12:01.680,00:12:03.880
+"Springen die Immunzellen an
+nach der Impfung?",00:12:03.960,00:12:07.120
+"Wir kriegen fast
+ohne dass wir es wollen und planen",00:12:07.200,00:12:10.880
+"hier auch Informationen
+zur tatsächlichen Schutzwirkung.",00:12:10.960,00:12:16.360
+"Das Virus zirkuliert bis dahin
+und man wird aufzeichnen",00:12:16.440,00:12:20.560
+"unter Impflingen, wer sich
+infiziert später im Verlauf.",00:12:20.640,00:12:25.760
+"Natürlich wird man das auch
+vergleichen mit der Bevölkerung,",00:12:26.360,00:12:30.360
+"in der das Ganze sich abspielt,
+die nicht geimpft ist.",00:12:30.440,00:12:34.520
+"Wir haben über Antikörperprinzip
+und über Immunantwort",00:12:35.640,00:12:39.440
+schon ausführlicher gesprochen.,00:12:39.520,00:12:42.400
+"Wir haben gelernt, dass es
+verschiedene Antikörper gibt.",00:12:42.480,00:12:46.480
+"Die einen sind wirkungsvoller,
+andere weniger wirkungsvoll.",00:12:46.560,00:12:50.520
+"Und es gibt
+die Immunantwort auf Zellebene.",00:12:50.600,00:12:53.800
+"Ist das relevant
+für die Impfstoffforschung,",00:12:53.880,00:12:56.720
+"welche Art der Immunantwort
+man da erzeugt?",00:12:56.800,00:13:00.680
+"Wenn der Körper
+ein Protein erkennt und reagiert.",00:13:00.760,00:13:04.600
+"Ja, das ist relevant.
+Es gibt zwei Ansätze.",00:13:04.680,00:13:07.880
+Der eine Ansatz ist:,00:13:07.960,00:13:09.600
+"Wir bemühen uns, die natürliche
+Infektion und Immunität",00:13:09.680,00:13:13.720
+"bestens zu verstehen
+und die dann bestens nachzubilden.",00:13:13.800,00:13:17.880
+"Das ist aber ein Ansatz,",00:13:18.280,00:13:20.160
+"für den wir vielleicht im Moment
+keine Zeit haben.",00:13:20.240,00:13:23.520
+"Wir haben nicht die Zeit,",00:13:23.600,00:13:25.440
+"ganz lange Immunitätsforschung
+zunächst zu betreiben.",00:13:25.520,00:13:29.520
+"Das wird auf jeden Fall gemacht.
+Das läuft jetzt parallel.",00:13:29.600,00:13:33.680
+"Diejenigen Gruppen, die planen,
+demnächst Impfstudien zu machen,",00:13:33.760,00:13:37.920
+"studieren den Immunitätsverlauf
+in der natürlichen Infektion.",00:13:38.000,00:13:42.240
+"Aber dennoch wissen die auch,
+dass diese Studien lange brauchen,",00:13:42.320,00:13:47.120
+"auch bis zur Auswertung
+und so weiter.",00:13:47.200,00:13:49.800
+"Deswegen gibt es
+in der Impfstoffentwicklung",00:13:49.880,00:13:52.800
+auch einen anderen Ansatz.,00:13:52.880,00:13:54.720
+"Man sagt, wenn man alle Erfahrung
+zusammennimmt über Infektionen,",00:13:54.800,00:13:59.000
+"die so ähnlich sind wie diese
+Infektion mit dem Coronavirus ...",00:13:59.080,00:14:03.120
+"Zum Beispiel
+die alte SARS-Infektion,",00:14:03.200,00:14:05.720
+die ist schon ziemlich ähnlich.,00:14:05.800,00:14:08.120
+"Aber auch
+andere Infektionen der Atemwege,",00:14:08.200,00:14:11.160
+die kann man herbeiziehen.,00:14:11.240,00:14:13.200
+"Da kann man überlegen,
+wie man denn sonst vorgehen kann.",00:14:13.280,00:14:17.040
+Was will man erreichen?,00:14:17.120,00:14:18.880
+"Da gibt es
+zwei große Arbeitsrichtungen.",00:14:18.960,00:14:21.560
+"Das eine ist: Man provoziert sehr
+stark neutralisierende Antikörper.",00:14:21.640,00:14:26.320
+"Dazu kann man
+bestimmte Impfantigene verwenden,",00:14:26.400,00:14:29.560
+"die so vielleicht
+schon vorbereitet sind.",00:14:29.640,00:14:32.480
+"Wie sie auch in der Natur entstehen
+in der natürlichen Infektion,",00:14:32.560,00:14:36.960
+"also zum Beispiel
+das Oberflächenprotein des Virus.",00:14:37.040,00:14:40.560
+"Das muss
+in der natürlichen Infektion",00:14:40.640,00:14:43.200
+"bestimmte Reifungsschritte
+durchlaufen.",00:14:43.280,00:14:45.880
+"Dabei ändert sich die Gestalt.
+Das ist dieses Spike-Protein?",00:14:45.960,00:14:50.240
+"Richtig, das ist das Spike-Protein.",00:14:50.320,00:14:52.600
+"Man kann
+einen Impfstoff so herstellen:",00:14:52.680,00:14:55.400
+"Dass der in dem Impfstoff
+in der Gestalt vorliegt,",00:14:55.480,00:14:59.440
+"wie das Virus kurz vor
+der Infektion wirklich aussieht.",00:14:59.520,00:15:04.440
+"Andere Varianten der Gestalt
+dieses Oberflächenproteins",00:15:04.520,00:15:09.520
+"kommen in dem Impfstoff
+gar nicht vorkommen.",00:15:09.600,00:15:12.720
+"Die können das Immunsystem
+gar nicht ablenken.",00:15:12.800,00:15:15.960
+"Das ist das,
+was die Viren machen wollen,",00:15:16.040,00:15:18.760
+"was sie auch tun
+im Infektionsverlauf:",00:15:18.840,00:15:21.440
+"Die entblößen
+sich nur in letzter Sekunde,",00:15:21.520,00:15:24.440
+"kurz bevor
+der Zelleintritt passiert.",00:15:24.520,00:15:27.040
+"Da werden die empfindlichen
+Stellen des Glykoproteins,",00:15:27.120,00:15:31.400
+"des Oberflächenproteins,
+freigelegt.",00:15:31.480,00:15:34.000
+"Wenn dagegen
+ein Antikörper vorhanden ist,",00:15:34.080,00:15:36.960
+"kann das Virus
+nicht mehr in die Zelle rein.",00:15:37.040,00:15:39.920
+"Das ist einer der Gründe,
+warum solche Viren",00:15:40.000,00:15:42.880
+"diese kritischen Epitope
+bis zum letzten Moment verstecken.",00:15:42.960,00:15:46.720
+"Man kann einen Impfstoff machen,",00:15:46.800,00:15:49.080
+"bei der diese Epitope
+gerade freigelegt sind.",00:15:49.160,00:15:52.120
+"Das Immunsystem
+erkennt das bei der Impfung",00:15:52.200,00:15:55.040
+"und bildet Antikörper gegen diese
+empfindlichste Stelle des Virus.",00:15:55.120,00:15:59.320
+"Wir haben gesprochen über
+vektorbasierte Lebendimpfstoffe.",00:15:59.400,00:16:03.760
+"Es gibt aber auch
+Totimpfstoffe mit Virusprotein.",00:16:03.840,00:16:07.560
+Wir kennen das aus der Grippeimpfung.,00:16:07.640,00:16:11.080
+"Welche Rolle spielt das?
+Wie schnell kann so was gehen?",00:16:11.160,00:16:15.160
+Wie gut kann es sein?,00:16:15.240,00:16:17.400
+"Wir müssen dann noch zurückgehen
+zu der vorherigen Frage.",00:16:17.480,00:16:22.080
+"Wir haben darüber diskutiert,
+eine Strategie ist es:",00:16:22.160,00:16:26.120
+"Aktive und neutralisierende
+Antikörper zu produzieren,",00:16:26.200,00:16:30.320
+"indem man die Gestalt
+des Oberflächenproteins exponiert.",00:16:30.400,00:16:35.000
+"Was man aber auch machen kann, ist:",00:16:35.080,00:16:37.560
+"Besonders aktive zelluläre
+Immunität zu provozieren,",00:16:37.640,00:16:41.120
+"indem man bestimmte Proteine
+in Vektorsysteme gibt.",00:16:41.200,00:16:45.080
+"Das Hauptoberflächenprotein
+des Virus zählt da auch dazu.",00:16:45.160,00:16:49.040
+"Von denen weiß man schon,
+dass die zelluläre Immunantwort",00:16:49.120,00:16:52.920
+"durch diese Vektorsysteme
+ganz besonders stimuliert werden.",00:16:53.000,00:16:56.960
+"Das ist ein paralleler Ansatz,
+den man fährt.",00:16:57.040,00:17:00.040
+In beiden Ansätzen sagt man:,00:17:00.120,00:17:02.400
+"Die natürliche Infektion
+ist eine Mischung aus zellulärer",00:17:02.480,00:17:06.200
+"und humoraler Aktivität
+des Immunsystems.",00:17:06.280,00:17:09.000
+Humoral bedeutet Antikörperbildung.,00:17:09.080,00:17:11.440
+"Zellulär
+bedeutet Immunzellaktivierung an.",00:17:11.520,00:17:14.560
+"Jetzt kann man
+in einem Ansatz sagen,",00:17:14.640,00:17:17.200
+"wir machen
+besonders gute Antikörper.",00:17:17.280,00:17:19.760
+Im anderen Ansatz kann man sagen:,00:17:19.840,00:17:22.080
+"Wir machen besonders
+gute Immunzellstimulation",00:17:22.160,00:17:25.200
+"durch ein Trägervektor
+eines Impfstoffes.",00:17:25.280,00:17:27.920
+"Der stimuliert die Immunzellen
+besser als das natürliche Virus.",00:17:28.000,00:17:32.200
+"Man sucht sich die Stärken
+des Immunsystems heraus",00:17:32.280,00:17:35.600
+und stimuliert die ganz besonders.,00:17:35.680,00:17:38.320
+"Jetzt können wir über das reden,
+was Sie gerade gefragt haben.",00:17:38.400,00:17:42.480
+Wie ist es mit Totimpfstoffen?,00:17:42.560,00:17:44.560
+"Da müssen wir
+im selben Atemzug auch sagen,",00:17:44.640,00:17:47.520
+"wie ist es mit
+attenuierten Lebendimpfstoffen?",00:17:47.600,00:17:50.640
+Also mit abgeschwächten Viren?,00:17:50.720,00:17:53.600
+"Diese Totimpfstoffe
+sind erst mal das Simpelste,",00:17:53.680,00:17:56.960
+"was man machen kann
+in der Vakzine-Herstellung.",00:17:57.040,00:18:00.240
+"Man nimmt einfach das Virus
+und lässt das wachsen",00:18:00.320,00:18:03.560
+"zu einer hohen Konzentration
+im Labor.",00:18:03.640,00:18:06.280
+Dann tötet man das Virus.,00:18:06.360,00:18:08.200
+"Da kann man Formalin drauftun.
+Man kann es heiß machen.",00:18:08.280,00:18:12.040
+"Dann kann man
+das einfach den Patienten",00:18:12.120,00:18:14.720
+"zum Beispiel
+in den Muskel spritzen.",00:18:14.800,00:18:17.280
+"Dann wird man schon sehen,
+nach zwei, dreimal Impfung",00:18:17.360,00:18:20.800
+"bekommt der Patient
+schon eine Immunreaktion.",00:18:20.880,00:18:23.920
+"Der bekommt Antikörper
+gegen das Virus",00:18:24.000,00:18:26.560
+"und er bekommt
+auch eine zelluläre Stimulation.",00:18:26.640,00:18:29.800
+"Das funktioniert bei vielen
+Krankheitserregern empirisch.",00:18:29.880,00:18:33.600
+"Man hat früher historisch
+so Impfstoffe hergestellt.",00:18:33.680,00:18:37.080
+"Man hat einfach Daten, die sagen,",00:18:37.160,00:18:39.480
+"das ist ein vernünftiger Impfstoff,
+da ändern wir nichts dran.",00:18:39.560,00:18:43.720
+"Gut sind diese Impfstoffe
+aber häufig nicht.",00:18:43.800,00:18:46.800
+"Diese Tot-Vakzine
+haben zwei Probleme.",00:18:46.880,00:18:49.480
+"Das eine Problem ist,",00:18:49.560,00:18:51.120
+"dass die Stimulation des zellulären
+Immunsystems nicht vollständig ist.",00:18:51.200,00:18:55.720
+"Nur eine kleine Abteilung
+des zellulären Immunsystems",00:18:55.800,00:18:59.160
+wird richtig aktiviert dabei.,00:18:59.240,00:19:01.280
+"Ein anderer Teil
+bleibt untätig liegen,",00:19:01.360,00:19:04.000
+"und das stört
+die Balance der Immunantwort.",00:19:04.080,00:19:07.040
+"Man bekommt
+eine unbalancierte Immunantwort.",00:19:07.120,00:19:10.200
+"Und was auch die Balance
+der Immunantwort stört:",00:19:10.280,00:19:13.600
+"Wenn wir ein Virus
+in der natürlichen Infektion haben,",00:19:13.680,00:19:17.520
+"versteckt das bestimmte Domänen,
+die besonders empfindlich sind.",00:19:17.600,00:19:22.360
+"Im Infektionsverlauf gibt es
+zum Teil nur kurze Zeitpunkte",00:19:22.440,00:19:26.280
+"im Replikationszyklus, wo
+diese Domänen wirklich offenliegen.",00:19:26.360,00:19:30.520
+"Wenn man aber so ein Virus tötet,
+findet kein natürlicher",00:19:30.600,00:19:34.360
+"Infektionsverlauf
+oder Vermehrungszyklus statt.",00:19:34.440,00:19:37.800
+"Dann kann es sein,",00:19:37.880,00:19:39.360
+"dass diese empfindlichen Stellen
+nie offengelegt werden.",00:19:39.440,00:19:43.120
+"Dass man gegen ein Virus impft,",00:19:43.200,00:19:45.560
+"dessen empfindlichste Stellen
+gar nicht offenliegen.",00:19:45.640,00:19:49.240
+"Das trägt dann noch mehr dazu bei,",00:19:49.320,00:19:51.960
+"dass man eine unbalancierte
+Immunantwort bekommt.",00:19:52.040,00:19:56.320
+Was heißt das?,00:19:56.400,00:19:57.800
+"Das heißt, man kann zwar
+im Labor Antikörper messen,",00:19:57.880,00:20:01.280
+das ist nur ein Beispiel.,00:20:01.360,00:20:03.240
+"Diese Antikörper sind aber
+nicht die richtigen Antikörper.",00:20:03.320,00:20:07.320
+"Wir haben in einer Folge
+schon mal gesagt:",00:20:07.400,00:20:10.480
+"Es gibt
+neutralisierende Antikörper",00:20:10.560,00:20:13.120
+"und es gibt Antikörper
+im ganz Allgemeinen.",00:20:13.200,00:20:16.120
+"Wir wollen vor allem
+die neutralisierenden Antikörper,",00:20:16.200,00:20:19.800
+"weil die
+den Infektionsvorgang stören.",00:20:19.880,00:20:22.640
+"Wir können aber durch
+nicht neutralisierende Antikörper",00:20:22.720,00:20:26.800
+"auch ungute Immunreaktionen haben
+bei einem Impfstoff.",00:20:26.880,00:20:31.680
+"Wenn man sich
+das zum Beispiel so vorstellt:",00:20:31.760,00:20:35.080
+"Es gibt bestimmte Zellen
+des Immunsystems,",00:20:35.160,00:20:38.160
+die sind sehr weit verbreitet.,00:20:38.240,00:20:40.400
+"Die haben einen Rezeptor für einen
+Teil des menschlichen Antikörpers.",00:20:40.480,00:20:45.520
+"Antikörper sind vorne an der Spitze
+ganz variabel.",00:20:45.600,00:20:49.680
+"Die passen
+genau zu dem Krankheitserreger,",00:20:49.760,00:20:52.760
+"gegen den diese Antikörper
+gebildet worden sind.",00:20:52.840,00:20:56.360
+"Aber das Endstück des Antikörpers
+ist immer gleich.",00:20:56.440,00:21:00.120
+"Die Immunzellen haben die Aufgabe,
+Krankheitserreger zu erkennen,",00:21:00.200,00:21:05.280
+"die mit Antikörpern besetzt sind
+und die dann aufzufressen.",00:21:05.360,00:21:10.120
+"Das ist häufig eine Immunreaktion,
+zum Beispiel gegen Bakterien.",00:21:11.280,00:21:15.880
+"Diese Monozyten
+werden dann angelockt",00:21:15.960,00:21:18.560
+"und die binden an
+so einen Krankheitserreger.",00:21:18.640,00:21:21.640
+"Die versuchen, den aufzufressen
+und lassen den rein,",00:21:21.720,00:21:25.080
+die nehmen den aktiv auf.,00:21:25.160,00:21:27.120
+"Wenn aber so ein Virus
+mit einem Antikörper besetzt ist.",00:21:27.200,00:21:30.760
+"Und dieser Antikörper
+blockiert das Virus gar nicht,",00:21:30.840,00:21:34.240
+"sondern verkleistert das Virus
+nur an der Oberfläche:",00:21:34.320,00:21:37.920
+"Dann kann es vorkommen,
+dass dieses Virus",00:21:38.000,00:21:40.840
+"in Monozyten aufgenommen wird
+und dort anfängt zu replizieren.",00:21:40.920,00:21:45.000
+Unter normalen Umständen,00:21:45.080,00:21:46.840
+"wäre das Virus
+in Monozyten nicht reingekommen.",00:21:46.920,00:21:50.040
+"Diese Monozyten haben ja gar keinen
+eigentlichen Virusaufnahmerezeptor.",00:21:50.120,00:21:54.800
+"Jetzt benutzt
+das Virus aber den Rezeptor,",00:21:54.880,00:21:57.600
+"den diese Immunzellen haben
+für Antikörper im Allgemeinen.",00:21:57.680,00:22:01.760
+"Das heißt, eigentlich
+meint es die Immunzelle gut.",00:22:01.840,00:22:05.400
+Die will ein Antikörper erkennen,00:22:05.480,00:22:07.720
+"auf der Oberfläche
+eines Krankheitserregers.",00:22:07.800,00:22:10.760
+"Die will diesen
+Krankheitserreger auffressen.",00:22:10.840,00:22:13.840
+"Bei einem Virus kann es aber sein,
+dass dieser Antikörper dazu führt,",00:22:13.920,00:22:18.440
+"dass das Virus in die Immunzelle
+aufgenommen wird.",00:22:18.520,00:22:21.800
+"Das Virus wird dann in
+der Immunzelle nicht aufgefressen,",00:22:21.880,00:22:25.640
+"sondern repliziert
+und tötet diese Immunzelle.",00:22:25.720,00:22:28.960
+"Dadurch kann die
+ganze Immunreaktion gestört werden.",00:22:29.040,00:22:32.720
+"Dadurch kann es dazu kommen,
+dass ein solcher Impfstoff,",00:22:32.800,00:22:37.120
+"der eine unbalancierte
+Antikörperantwort macht ...",00:22:37.200,00:22:40.760
+"Der also zwar Antikörper macht,
+aber es sind die falschen.",00:22:40.840,00:22:44.680
+"Es sind keine neutralisierenden
+Antikörper",00:22:44.760,00:22:47.640
+"oder zu wenig
+neutralisierende Antikörper.",00:22:47.720,00:22:50.560
+"Dann passiert was, was aussieht",00:22:50.640,00:22:52.840
+"wie eine Verschlimmerung
+der Krankheit durch die Impfung.",00:22:52.920,00:22:56.720
+"Man wird geimpft, dann hat man
+Kontakt mit dem Virus",00:22:56.800,00:23:00.200
+"und die Krankheit wird schlimmer,
+als wäre man nicht geimpft worden.",00:23:00.280,00:23:04.720
+"Die Immunzellen, die man braucht,
+um die Krankheit abzuwehren,",00:23:04.800,00:23:08.720
+"sind dann zur Zielzelle des Virus
+geworden.",00:23:08.800,00:23:11.560
+"Dann kann sich die Krankheit
+stärker entwickeln.",00:23:11.640,00:23:14.920
+So was ist reine Theorie.,00:23:15.000,00:23:16.680
+"Wir sprechen bei dem Phänomen
+von Antibody-dependent enhancement,",00:23:16.760,00:23:21.000
+"Antikörperabhängiger
+Verschlimmerung der Erkrankung.",00:23:21.080,00:23:24.720
+"All diese Dinge sind Beispiele,",00:23:24.800,00:23:27.240
+"die ich hier nennen
+kann für die vielen Unwägbarkeiten.",00:23:27.320,00:23:31.360
+"Die führen dazu, dass man nicht
+mal eben schnell sagen kann:",00:23:31.440,00:23:35.520
+"Freiwillige,
+krempelt die Ärmel hoch,",00:23:35.600,00:23:38.040
+"wir impfen euch,
+dann wird das schon gut gehen.",00:23:38.120,00:23:41.280
+So einfach ist es nicht.,00:23:41.360,00:23:43.160
+"Ist eine dieser beiden Linien aus
+Ihrer Sicht die vielversprechendere?",00:23:43.240,00:23:48.280
+"Was solche Unwägbarkeiten angeht,",00:23:48.360,00:23:50.840
+"Totimpfstoffe oder
+vektorbasierte Lebendimpfstoffe?",00:23:50.920,00:23:55.440
+"Viele Leute, mit denen ich spreche
+über Impfstoffentwicklung, sagen:",00:23:55.520,00:24:01.200
+"Die Wahrscheinlichkeit,
+dass solche Störeffekte auftreten,",00:24:02.000,00:24:06.600
+ist eigentlich nicht sehr groß.,00:24:06.680,00:24:09.160
+"Aber man kann da
+im Moment nur spekulieren.",00:24:09.240,00:24:12.320
+"Man muss
+solche Dinge auch ausschließen.",00:24:12.400,00:24:15.920
+"Das ist einfach wichtig, dass man
+da Untersuchungen anstellt.",00:24:16.000,00:24:20.080
+"Vieles davon kann man beantworten
+in Tierversuchen.",00:24:20.160,00:24:23.880
+"Da wird man nicht
+ganz drum herum kommen.",00:24:23.960,00:24:26.680
+"Zum anderen aber auch
+durch Testungen im Reagenzglas.",00:24:26.760,00:24:30.320
+"Solche Effekte,
+die ich gerade beschrieben habe,",00:24:30.400,00:24:33.600
+die kann man schon antizipieren.,00:24:33.680,00:24:36.080
+Da muss man nicht unbedingt,00:24:36.160,00:24:38.080
+"Belastungsinfektionen
+im Menschen dafür machen.",00:24:38.160,00:24:41.400
+Aber das braucht alles Zeit.,00:24:41.480,00:24:43.560
+"Und zu Ihrer Frage, welche
+der beiden Wege ist der bessere?",00:24:43.640,00:24:47.680
+"Stärkung der zellulären Immunität
+oder der Antikörperimmunität?",00:24:47.760,00:24:52.040
+Das ist schwer im Moment zu sagen.,00:24:52.120,00:24:54.520
+"Es gibt hoffnungsvolle Anfangsdaten
+für beide Ansätze.",00:24:54.600,00:24:58.400
+"Es ist aber so,",00:24:58.480,00:24:59.880
+"dass eine Impfstoffentwicklung
+ein unglaublich großes Projekt ist.",00:24:59.960,00:25:04.440
+"Ab einem bestimmten Zeitpunkt
+muss sich eine Firma",00:25:04.520,00:25:08.040
+auf einen der Wege einschießen.,00:25:08.120,00:25:10.760
+"Die arbeiten stets auch
+mit akademischen Gruppen zusammen.",00:25:10.840,00:25:14.960
+"Dann kann man das nicht mehr
+einfach vergleichen.",00:25:15.040,00:25:18.360
+"Man kann nicht erwarten,
+dass Studien durchgeführt werden,",00:25:18.440,00:25:22.400
+"wo beide Wege
+miteinander verglichen werden.",00:25:22.480,00:25:25.520
+"Das übersteigt
+jede zu leistende Arbeit",00:25:25.600,00:25:28.440
+"und jeden leistbaren
+Finanz- und Organisationsaufwand.",00:25:28.520,00:25:32.360
+"Die Arbeitsgruppen müssen
+ab einem bestimmten Zeitpunkt",00:25:32.440,00:25:36.360
+"ihre Studien für sich,
+für ihre Vakzine durchziehen.",00:25:36.440,00:25:40.120
+"Und erst mal die Daten so sammeln,",00:25:40.200,00:25:42.640
+"dass sie im Kasten sind,
+dass man das sicher hat.",00:25:42.720,00:25:46.000
+Hinterher kann man vergleichen.,00:25:46.080,00:25:48.320
+Darum muss man einfach sagen:,00:25:48.400,00:25:50.560
+"Es ist im Moment nicht so,
+dass man sagen kann,",00:25:50.640,00:25:53.720
+"der eine Weg
+ist der vielversprechendere.",00:25:53.800,00:25:56.560
+"Man kann sagen, bei dem ganz
+simplen Weg des Totimpfstoffs,",00:25:56.640,00:26:01.440
+"muss man genau hingucken und
+vorsichtig sein wegen der Gefahren.",00:26:01.880,00:26:06.360
+Ich habe vorhin,00:26:06.440,00:26:07.880
+"diese antikörpervermittelte
+Verschlimmerung beschrieben.",00:26:07.960,00:26:11.840
+"Das ist nur eine der Gefahren,",00:26:11.920,00:26:14.120
+"die man bei so simplen Vakzinen
+erleben kann.",00:26:14.200,00:26:17.280
+"Darum ist es schon richtig,
+dass man sich",00:26:17.360,00:26:20.120
+"auf die technisch höher
+entwickelten Vakzinen konzentriert.",00:26:20.200,00:26:24.040
+"Da gibt es eine Wahrnehmung,
+wo man eine Richtung sagen kann:",00:26:24.120,00:26:28.120
+"Diese Vakzinen, die darauf zielen,",00:26:28.200,00:26:30.720
+"besonders hohe neutralisierende
+Antikörper zu machen,",00:26:30.800,00:26:34.360
+"die benutzen häufig nur ein
+einfaches Protein als Impfsubstanz.",00:26:34.440,00:26:39.120
+"Dieses Protein ist
+in der biotechnologischen Industrie",00:26:39.200,00:26:43.080
+"stärker und besser
+herzustellen in kürzerer Zeit.",00:26:43.160,00:26:47.480
+"Als sehr aufwendige
+modifizierte Lebendvakzinen,",00:26:48.080,00:26:51.720
+also Vektor-Vakzinen.,00:26:51.800,00:26:53.400
+"Die zielen vor allem darauf,",00:26:53.480,00:26:55.600
+"auch die zelluläre Antwort
+besonders gut zu stimulieren.",00:26:55.680,00:26:59.480
+"Hier ist die Produktion
+dieses Vektorimpfstoffes",00:26:59.560,00:27:02.840
+"häufig einfach
+mengenmäßig nicht ganz so einfach.",00:27:02.920,00:27:06.680
+"Da muss man
+sehr viel Produktionsmaterial",00:27:06.760,00:27:09.640
+in Bewegung setzen.,00:27:09.720,00:27:12.120
+"Also sehr viele Zellkulturen
+in Fermentern infizieren,",00:27:12.200,00:27:15.840
+"um eine hohe Ausbeute
+dieser Vakzinen zu kriegen.",00:27:15.920,00:27:19.680
+"Während die Produktion
+von solchen Proteinen",00:27:19.760,00:27:22.600
+"biotechnologisch
+mehr geradlinig ist.",00:27:22.680,00:27:26.680
+"Man weiß genau, wie das geht.",00:27:26.760,00:27:29.000
+"Da gibt es
+weniger Parameter zu optimieren",00:27:29.080,00:27:32.000
+in der pharmazeutischen Industrie.,00:27:32.080,00:27:34.520
+"Die Aufreinigungsprozesse
+sind häufig einfacher.",00:27:34.600,00:27:37.760
+"Man will besonders saubere
+Impfstoffpräparationen haben.",00:27:37.840,00:27:41.720
+Deswegen gibt es Gründe zu denken:,00:27:41.800,00:27:44.160
+"Das sind Impfstoffe, mit denen man
+schneller in eine Situation kommt,",00:27:44.240,00:27:48.800
+"dass man auch eine breite Masse
+von Patienten impfen kann.",00:27:48.880,00:27:52.600
+Was wichtig wäre. Richtig.,00:27:52.680,00:27:54.520
+"Aber es ist
+nicht so einfach zu sagen,",00:27:54.600,00:27:57.080
+dass das die schnelleren sind.,00:27:57.160,00:27:59.280
+"Die brauchen Vorlauf und können dann
+in großer Menge hergestellt werden.",00:27:59.360,00:28:03.680
+"Während es bei moderneren Konzepten
+interessante Konzepte gibt,",00:28:03.760,00:28:07.920
+die besonders schnell sind.,00:28:08.000,00:28:09.880
+"Da wird reine
+genetische Information verimpft,",00:28:09.960,00:28:13.160
+die RNA- oder DNA-Vakzinen.,00:28:13.240,00:28:15.320
+Gerade im Bereich der RNA-Vakzinen,00:28:15.400,00:28:17.800
+"gibt es vielversprechende
+neue Technologien.",00:28:17.880,00:28:20.920
+"Die kommen häufig aus dem Bereich
+von Anti-Krebs-Vakzine-Entwicklung,",00:28:21.000,00:28:25.720
+"Die verlassen sich darauf, dass die
+eigenen Körperzellen des Impflings,",00:28:25.800,00:28:31.240
+"das Protein des Impfstoffs
+erst selber herstellen.",00:28:31.320,00:28:34.720
+"Also desjenigen, der geimpft wird,",00:28:34.800,00:28:37.240
+"den Impfstoff
+erst selber herstellen.",00:28:37.320,00:28:39.920
+"Das sind Impfstoffe,",00:28:40.000,00:28:41.480
+"die sind kein von vorneherein
+hergestelltes Protein.",00:28:41.560,00:28:45.120
+"Und sie sind kein Vektorsystem,",00:28:45.200,00:28:47.480
+"das zum von einem Vacciniavirus
+abstammt oder so.",00:28:47.560,00:28:50.840
+Sondern die sind auch ein Protein.,00:28:50.920,00:28:53.360
+"Aber dieses Protein wird selbst
+hergestellt nach der Infektion",00:28:53.440,00:28:57.840
+in den beimpften Zellen des Körpers.,00:28:57.920,00:29:00.640
+"Das muss man jetzt mal abwarten,
+wie da die Erprobungen laufen.",00:29:00.720,00:29:05.240
+"Das schneidet
+einen ganzen Produktionsabschnitt ab",00:29:05.320,00:29:09.320
+in der biotechnologischen Industrie.,00:29:09.400,00:29:12.080
+"Hier muss man
+jetzt nur RNA produzieren,",00:29:12.160,00:29:14.960
+"das kann man chemisch machen
+auf sehr gradlinigem Weg.",00:29:15.040,00:29:18.760
+"Das sind
+interessante Impfstoffkandidaten,",00:29:18.840,00:29:21.720
+die auch ausprobiert werden.,00:29:21.800,00:29:23.880
+"Das wären auch Impfstoffe,
+die schnell zur Verfügung stehen,",00:29:23.960,00:29:27.880
+"aber nicht in so breiter Menge
+verimpft werden können.",00:29:27.960,00:29:31.960
+"Wo man dann überlegen würde,
+gibt es bestimmte Zielgruppen,",00:29:32.040,00:29:36.240
+die man damit versorgen würde?,00:29:36.320,00:29:39.600
+"Risikogruppen oder Klinikpersonal,",00:29:40.360,00:29:42.760
+"das einer hohen Viruskonzentration
+ausgesetzt sein könnte.",00:29:42.840,00:29:46.760
+"Klinikpersonal,
+wo wir Personen haben,",00:29:46.840,00:29:50.480
+die grundsätzlich gesund sind.,00:29:50.560,00:29:53.160
+"Die sind grundsätzlich in der Lage,
+eine gute Immunantwort zu machen.",00:29:53.240,00:29:58.000
+"Genau, das könnte so eine bevorzugt
+zu beimpfende Gruppe sein.",00:29:58.080,00:30:02.320
+"Natürlich denkt man dann, egal,
+ob es diese Impfstoffe sind ...",00:30:02.400,00:30:06.600
+"Also wo man immer denken würde,
+egal, was wir haben:",00:30:06.680,00:30:10.560
+"Der erste Impfstoff, den wir haben,",00:30:10.640,00:30:13.160
+"den müssen wir sofort
+zu den Risikogruppen geben.",00:30:13.240,00:30:16.440
+"Diese Überlegung
+ist einfach gedacht.",00:30:16.520,00:30:19.840
+"Am Anfang, wenn die ersten
+Impfstoffe verfügbar sind,",00:30:19.920,00:30:24.560
+"muss man mit wenig Impfstoff
+einen hohen Effekt erzielen wollen.",00:30:25.200,00:30:32.680
+"Das Impfen von medizinischem
+Personal hat den höchsten Effekt,",00:30:32.760,00:30:36.920
+"wenn man verhindert,
+dass die alle ausfallen.",00:30:37.000,00:30:40.120
+"Das ist wichtig, das versteht jeder.",00:30:40.200,00:30:42.800
+"Bei dem Impfen von älteren Personen
+gibt es ein Problem",00:30:42.880,00:30:46.560
+"in vielen Fällen
+mit vielen Impfstoffen.",00:30:46.640,00:30:49.360
+"Die brauchen mehr Impfstoff
+für die gleiche Immunantwort.",00:30:49.440,00:30:53.360
+Eine höhere Dosis. Richtig.,00:30:53.440,00:30:55.320
+"Wenn diese Dosis limitiert ist,",00:30:55.400,00:30:57.600
+"wenn die Produktion
+des Impfstoffs limitiert ist.",00:30:57.680,00:31:01.200
+"Und man weiß,
+da gibt es eine Patientengruppe,",00:31:01.280,00:31:04.480
+"die braucht fünfmal mehr Impfstoff
+als der normale Patient.",00:31:04.560,00:31:08.440
+"Dann kommt man schnell
+an den Punkt, wo man sagt,",00:31:08.520,00:31:11.840
+"es ist nicht möglich, fünfmal
+mehr Impfstoff herzustellen.",00:31:11.920,00:31:15.880
+Also muss man sich überlegen:,00:31:15.960,00:31:17.960
+"Will man
+fünfmal mehr Impfstoff machen",00:31:18.040,00:31:20.600
+"und damit die Leute impfen,
+die eine Risikogruppe sind?",00:31:20.680,00:31:24.200
+"Oder will man
+fünfmal mehr Impfstoff machen",00:31:24.280,00:31:27.080
+"und damit fünfmal mehr
+normale Patienten impfen?",00:31:27.160,00:31:30.360
+"Und damit den Bevölkerungsschutz
+signifikant anheben",00:31:30.440,00:31:33.920
+"und die Pandemie damit früher
+zum Stoppen zu bringen?",00:31:34.000,00:31:37.760
+"Das sind alles Überlegungen,",00:31:37.840,00:31:39.960
+"die muss man für
+jeden Impfstoff separat machen.",00:31:40.040,00:31:43.880
+Das kann man nicht pauschalisieren.,00:31:43.960,00:31:46.400
+Wir können das hier,00:31:46.480,00:31:48.040
+"nur in diesem oberflächlichen
+Anfangsniveau besprechen.",00:31:48.120,00:31:52.800
+"Ich kann immer nur andeuten,
+wo die schwierigen Probleme liegen.",00:31:53.360,00:31:57.880
+"Dann muss man sagen,
+ich habe nur Beispiele besprochen.",00:31:57.960,00:32:01.680
+"Zu jedem Beispiel,
+das ich bespreche,",00:32:01.760,00:32:04.400
+"gibt es noch drei oder vier
+andere große Probleme dazu.",00:32:04.480,00:32:08.000
+"Man muss die spezifisch
+für jeden Impfstoff behandeln.",00:32:08.080,00:32:11.560
+"Auch ethisch komplizierte
+und heikle Fragen.",00:32:11.640,00:32:14.920
+"Eine abschließende Frage
+möchte ich noch stellen.",00:32:15.000,00:32:19.360
+"Wenn man sich anguckt, wie viel
+Impfstoffprojekte es weltweit gibt.",00:32:19.440,00:32:24.000
+"Es gibt eine internationale
+Impfstoffallianz, die CEPI.",00:32:24.080,00:32:27.880
+"Die sorgt für bessere Finanzierung,",00:32:27.960,00:32:30.440
+"als wir das vorher
+bei Impfstoffentwicklung kannten.",00:32:30.520,00:32:33.960
+Wie gut bewerten Sie,00:32:34.040,00:32:35.840
+"die Zusammenarbeit
+zwischen verschiedenen Instituten?",00:32:35.920,00:32:39.520
+"Es hilft, gerade wenn man jeden
+einzelnen Impfstoff angucken muss,",00:32:39.600,00:32:44.160
+gemeinsame Kooperationen zu starten.,00:32:44.240,00:32:47.040
+"Kocht da jeder
+sein eigenes Süppchen?",00:32:47.120,00:32:50.160
+"Startend auf dem Niveau
+der klinischen Erprobung,",00:32:50.240,00:32:54.320
+da gibt es Zusammenarbeiten.,00:32:54.400,00:32:57.200
+"In dem Sinne, dass zum Beispiel
+eine klinische Studienstelle,",00:32:57.280,00:33:01.360
+"ein Krankenhaus oder auch
+eine Gruppe von Krankenhäusern,",00:33:01.440,00:33:05.280
+"mehrere verschiedene Impfstoffe
+gegeneinander testen kann.",00:33:05.360,00:33:09.320
+So was wird auch gemacht.,00:33:09.400,00:33:11.240
+"In anderen Bereichen ist es so,",00:33:11.320,00:33:13.760
+"dass auch Betriebsgeheimnisse
+bestehen.",00:33:13.840,00:33:17.000
+"Das sind nun mal
+Industrieunternehmungen,",00:33:17.440,00:33:20.360
+so einen Impfstoff zu machen.,00:33:20.440,00:33:22.680
+"Die Vorstellung, dass eine
+Uniklinik einen Impfstoff macht,",00:33:22.760,00:33:26.640
+ist falsch.,00:33:26.720,00:33:28.160
+"Impfstoffe werden nur
+in der Industrie hergestellt.",00:33:28.240,00:33:31.600
+"Da gibt es
+extrem hohe Investitionsvolumina,",00:33:31.680,00:33:34.840
+die getätigt werden müssen.,00:33:34.920,00:33:36.880
+"Da müssen bestimmte Dinge
+geschützt werden.",00:33:36.960,00:33:39.960
+"Das ist nicht nur so,
+dass man dann beispielsweise ...",00:33:40.040,00:33:43.760
+"Wenn ich jetzt sage ""Geheimnisse"",
+das ist nicht so, dass gesagt wird:",00:33:43.840,00:33:48.520
+"Wir haben unser Patentrezept
+und das rücken wir nicht raus,",00:33:48.600,00:33:52.280
+das ist gar nicht das Problem.,00:33:52.360,00:33:54.560
+"Das sind nicht unbedingt
+die Geheimnisse, die da herrschen.",00:33:54.640,00:33:58.760
+"Die Firmen wissen schon ungefähr
+oder sogar ziemlich genau,",00:33:58.840,00:34:02.800
+"wie die andere Firma
+ihren Impfstoff herstellt.",00:34:02.880,00:34:06.320
+"Es ist so, dass die Inhalte
+der Studien bis zu einem Zeitpunkt",00:34:06.400,00:34:11.080
+"vor einer Fehlinterpretation
+geschützt werden müssen.",00:34:11.160,00:34:14.920
+Das ist ganz wichtig.,00:34:15.000,00:34:16.720
+"Ansonsten läuft eine Entwicklung
+eines Impfstoffes Gefahr,",00:34:16.800,00:34:21.480
+gestoppt zu werden frühzeitig.,00:34:21.560,00:34:24.560
+"Zu einem Zeitpunkt, wo es
+noch hätte weiterlaufen müssen.",00:34:24.640,00:34:29.600
+"Wo getätigte Investitionen
+umsonst getätigt worden sind.",00:34:29.680,00:34:35.080
+"Und die Vorstellung, dass das
+alles nur Steuergelder sind ...",00:34:36.360,00:34:40.480
+"CEPI sind Forschungsfördermittel
+von verschiedenen Ländern,",00:34:40.560,00:34:44.480
+"die in einen großen Topf
+getan werden.",00:34:44.560,00:34:47.240
+"Das stimmt, sind Steuergelder.",00:34:47.640,00:34:49.800
+"Aber die stehen nur ergänzend da
+zu der Grundinvestition",00:34:49.880,00:34:54.800
+"von wichtigen
+pharmazeutischen Unternehmen.",00:34:54.880,00:34:58.400
+"Und auch von risikoreichen
+biotechnologischen Start-up-Firmen,",00:34:58.480,00:35:02.560
+"deren Schicksal
+an solchen Dingen hängt.",00:35:02.640,00:35:05.480
+"Deshalb ist der Impfstoffbereich
+bis zu einem bestimmten Zeitpunkt",00:35:05.560,00:35:10.400
+"in der Entwicklung
+nicht vollkommen offen.",00:35:10.480,00:35:14.080
+"Sondern er muss auch
+einem gewissen Schutz unterliegen.",00:35:14.160,00:35:18.960
+"Diese biotechnologischen Varianten,",00:35:19.800,00:35:22.880
+"ist das schon einberechnet in
+die Frist von zwölf bis 18 Monaten?",00:35:22.960,00:35:28.760
+"Oder lässt sich durch
+diesen Prozess noch Zeit gewinnen?",00:35:28.840,00:35:34.280
+"Genau,
+man hört jetzt zwölf bis 18 Monate.",00:35:35.080,00:35:37.880
+"In dem Zeitbereich,
+dass immer gesagt wurde:",00:35:37.960,00:35:40.760
+"Wenn es alles gut geht,
+wenn es ganz schnell läuft,",00:35:40.840,00:35:44.320
+"kann man je nach Impfstoffkonzept
+innerhalb von einem Jahr erwarten,",00:35:44.400,00:35:50.320
+"dass man
+eine zugelassene Vakzine hat.",00:35:50.400,00:35:53.200
+"Sprich nächstes Jahr um diese Zeit
+oder nächstes Jahr im Sommer.",00:35:53.280,00:35:57.840
+"Es ist so bei allem, wie man das
+im Moment hin und her wälzt:",00:35:57.920,00:36:02.280
+"Ich kann Ihnen versichern,
+dass alle extrem bemüht sind",00:36:02.360,00:36:06.440
+"und alle bis zum Letzten da sitzen
+und miteinander sprechen.",00:36:06.520,00:36:11.200
+Wo kann man noch Zeit gewinnen?,00:36:11.280,00:36:13.680
+"Denn ist es klar, die wirkliche
+Entlastung dieser Situation",00:36:13.760,00:36:17.720
+kommt durch einen Impfstoff.,00:36:17.800,00:36:20.000
+"Man kann nur sagen, man kommt
+nicht zu der goldenen Erkenntnis,",00:36:20.080,00:36:24.360
+"dass hier doch noch mal eine
+Abkürzung gegangen werden kann.",00:36:24.440,00:36:28.520
+"Wir werden Pressemitteilungen
+haben, die sich so anhören,",00:36:28.600,00:36:33.520
+"als wäre das jetzt
+die ganz große Abkürzung hier.",00:36:33.600,00:36:37.000
+"Und als wäre das
+jetzt der Durchbruch.",00:36:37.080,00:36:39.760
+Aber am Ende ist es eben leider,00:36:39.840,00:36:42.080
+"wahrscheinlich
+nicht zu beschleunigen.",00:36:42.160,00:36:44.760
+"Wir werden sicher
+einen gestaffelten Prozess haben.",00:36:44.840,00:36:48.280
+"Wir werden eine Situation haben,
+wo schon kleine Mengen",00:36:48.360,00:36:51.920
+"von einem ersten Impfstoff
+vorhanden sind.",00:36:52.000,00:36:55.040
+"Wo wir auch Graubereiche haben,
+wo wir sagen:",00:36:55.120,00:36:58.360
+"Der Impfstoff
+ist noch nicht zugelassen,",00:36:58.440,00:37:01.200
+"das ist noch
+Teil des Zulassungsverfahrens.",00:37:01.280,00:37:04.280
+"Das ist Teil der klinischen
+Erprobung, eine Wirksamkeitsstudie.",00:37:04.360,00:37:08.560
+"Aber da sind schon
+so viele Patienten eingeschlossen,",00:37:08.640,00:37:12.200
+dass die davon einen Nutzen haben.,00:37:12.280,00:37:14.720
+Solche Dinge werden passieren.,00:37:14.800,00:37:17.280
+"Wir werden dennoch,
+wenn wir jetzt uns überlegen,",00:37:17.360,00:37:20.760
+in der breiten Bevölkerung:,00:37:20.840,00:37:22.800
+"Also ein Impfstoff ist
+in ausreichender Menge vorhanden.",00:37:22.880,00:37:26.720
+"Die ganze Logistik steht auch,
+der ist in Ampullen abgefüllt,",00:37:26.800,00:37:30.880
+der wird verimpft durch Ärzte.,00:37:30.960,00:37:33.240
+Dann müssen wir sagen:,00:37:33.320,00:37:35.040
+"Frühestens nächstes Jahr
+um diese Zeit geht das los",00:37:35.120,00:37:38.960
+"und dann bis zum Sommer 2021 sollte
+es in der größeren Breite losgehen.",00:37:39.040,00:37:43.960
+"Es gibt eine Sache,
+da bin ich im Moment ratlos.",00:37:44.040,00:37:47.360
+"Auch wenn ich mit Kollegen spreche,
+die sagen auch,",00:37:47.440,00:37:50.720
+"da kann man einfach
+im Moment nichts sagen.",00:37:50.800,00:37:53.920
+"Das ist diese Meldung, die
+in den Medien Verbreitung findet:",00:37:54.000,00:37:57.760
+"In China wurde schon
+ein simpler Totimpfstoff hergestellt",00:37:57.840,00:38:02.800
+"und da läuft schon
+die klinische Erprobung.",00:38:02.880,00:38:06.040
+"Dass dann gesagt wird,
+so was könnte",00:38:06.120,00:38:08.600
+"mit einem einfachen Impfstoff
+vielleicht schneller gehen.",00:38:08.680,00:38:12.720
+"Auch da muss man sagen,
+erst mal man muss skeptisch sein,",00:38:12.800,00:38:16.680
+"ob es wirklich schneller ist, einen
+simplen Impfstoff zu produzieren.",00:38:16.760,00:38:21.400
+"Auch der muss in Produktionsanlagen
+hergestellt werden,",00:38:21.480,00:38:25.280
+"die dafür
+konfiguriert werden müssen.",00:38:25.360,00:38:27.840
+"Und zweitens diese Frage,
+ist das wirklich so einfach?",00:38:27.920,00:38:31.600
+"Oder handelt man sich
+doch bestimmte Komplikationen ein?",00:38:31.680,00:38:35.400
+"Nun wollen wir Ihrer Stimme
+Entlastung gönnen.",00:38:35.480,00:38:38.560
+"Wir sprechen morgen weiter.
+Dann ist Anja Martini wieder dran.",00:38:38.640,00:38:42.840
+"Professor Drosten,
+danke und gute Besserung.",00:38:42.920,00:38:46.000
+"Gerne, bis morgen.",00:38:46.080,00:38:47.520
+Zwei Hinweise möchte ich loswerden.,00:38:47.600,00:38:50.240
+"Uns erreichen Mails zu Stimmen
+in Medien und sozialen Netzwerken,",00:38:50.320,00:38:54.640
+die alles für übertrieben halten.,00:38:54.720,00:38:57.080
+"Die Gefährlichkeit des Coronavirus
+für eine Konstruktion",00:38:57.160,00:39:00.920
+"von Medien, Politikern
+und Virologen halten.",00:39:01.000,00:39:04.160
+"Die Argumente der Kritiker
+wiederholen sich.",00:39:04.240,00:39:07.320
+"Sie zielen auf Zusammenhänge ab,",00:39:07.400,00:39:09.920
+"die wir in anderen Folgen
+ausführlich thematisiert haben.",00:39:10.000,00:39:13.960
+"Wir blicken da drauf und sehen zu,",00:39:14.040,00:39:16.920
+"ob wir das mit Christian Drosten
+noch mal aufgreifen können.",00:39:17.000,00:39:21.160
+"Bis dahin
+sei verwiesen auf Folge 16.",00:39:21.240,00:39:23.880
+"In der haben wir die Argumente eines
+der Kritiker zum Thema gemacht.",00:39:23.960,00:39:28.480
+"Dann weise ich auf den NDR Info
+Podcast ""Die Korrespondenten"" hin.",00:39:28.560,00:39:33.320
+"Das Coronavirus ist auch das Thema
+für unsere Kollegen",00:39:33.400,00:39:37.040
+"in Washington, London,
+Singapur und Neu-Delhi.",00:39:37.120,00:39:40.840
+"Indien wurde von heute auf morgen
+unter Hausarrest gestellt.",00:39:40.920,00:39:45.560
+"Unvorstellbar in diesem Land,",00:39:45.640,00:39:47.880
+"in dem sich normalerweise
+alles auf der Straße abspielt.",00:39:47.960,00:39:51.800
+"Silke Dietrich
+und Bernd Musch-Borowska",00:39:51.880,00:39:55.160
+"sind unsere Korrespondenten
+in Neu-Delhi.",00:39:55.240,00:39:58.000
+"In Singapur gibt es
+diese Handy-App schon,",00:39:58.080,00:40:01.120
+über die hier diskutiert wird.,00:40:01.200,00:40:03.400
+"Auch der Blick
+in die USA ist spannend.",00:40:03.480,00:40:06.280
+"Die Korrespondenten haben jetzt auch
+den New Yorker Kollegen dabei.",00:40:06.360,00:40:10.840
+"Den Podcast ""Die Korrespondenten""",00:40:10.920,00:40:13.360
+"finden Sie in der ARD Audiothek
+und unter ndr.de/diekorrespondenten",00:40:13.440,00:40:19.440
+"Unser Coronavirus-Update
+gibt es auch morgen wieder,",00:40:19.520,00:40:23.040
+"auch auf der Seite
+ndr.de/coronaupdate",00:40:23.120,00:40:26.080
+"Mein Name ist Korinna Hennig,
+danke fürs Zuhören.",00:40:26.160,00:40:30.000
+"Das Coronavirus-Update,
+ein Podcast von NDR Info.",00:40:32.360,00:40:36.240
+Copyright Untertitel: NDR 2020,00:40:36.320,00:40:38.840
