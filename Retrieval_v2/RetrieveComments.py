@@ -14,13 +14,18 @@ def get_ids(youtube, videoId):
 
     # list for storing ids
     ids = []
-
+    
     # request for first page
     request = youtube.commentThreads().list(
         part="id",
         videoId=videoId
     )
-    response = request.execute()
+
+    try:
+        response = request.execute()
+
+    except Exception as e:
+        print("EXECUTING ID REQUEST FAILED:" + e)
 
     # append ids to list
     for comment in response.get('items'):
@@ -35,8 +40,11 @@ def get_ids(youtube, videoId):
             pageToken=nextPageToken,
             videoId=videoId
         )
-
-        response = request.execute()
+        try:
+            response = request.execute()
+        except Exception as e:
+            print("EXECUTING REQUEST FAILED:" + e)
+            break
 
         # append ids to list
         for comment in response.get('items'):
@@ -83,21 +91,30 @@ def get_comments(youtube, videoId):
             part="snippet",
             id=commentId
         )
+        
         try:
             response = request.execute()
-        except:
-            break
-
-        comment = {
-            'id' : commentId,
-            'text': response.get('items')[0].get('snippet').get('textOriginal'),
-            'date': response.get('items')[0].get('snippet').get('publishedAt')
-        }
-
-        comments.append(comment)
-        idsVisited.append(commentId)
-
         
+        except Exception as e:
+            print("EXECUTING COMMENT REQUEST FAILED:" + e)
+            break
+        
+        try:
+
+            comment = {
+                'id' : commentId,
+                'text': response.get('items')[0].get('snippet').get('textOriginal'),
+                'date': response.get('items')[0].get('snippet').get('publishedAt')
+            }
+
+            comments.append(comment)
+            idsVisited.append(commentId)
+
+        except Exception as e:
+
+            print("Appending comment failed: " + commentId + "/n" + e)
+            continue
+    
     # check if dict already exists
     # add new entries to file if exists   
     if os.path.isfile('./comments/' + videoId + '_comments.json'):
