@@ -132,7 +132,7 @@ def get_comments(youtube):
         writer = csv.writer(file)
         writer.writerows(comments)
             
-    with open('videos_visited', 'a') as file:
+    with open('videos_visited.txt', 'a') as file:
         appendString = "," + ','.join(visited)
         file.write(appendString)
 
