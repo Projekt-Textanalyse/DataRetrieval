@@ -84,7 +84,7 @@ def get_comments(youtube):
 
                 # append comments to list
                 for comment in response.get('items'):
-                    commentRow =[len(comments)-1, video, comment.get('snippet').get('topLevelComment').get('snippet').get('textOriginal'), comment.get('snippet').get('topLevelComment').get('snippet').get('publishedAt')]
+                    commentRow =[len(comments)+1, video, comment.get('snippet').get('topLevelComment').get('snippet').get('textOriginal'), comment.get('snippet').get('topLevelComment').get('snippet').get('publishedAt')]
                     comments.append(commentRow)
 
                 
@@ -118,7 +118,7 @@ def get_comments(youtube):
 
                 # append ids to list
                 for comment in response.get('items'):
-                    commentRow =[len(comments)-1, video, comment.get('snippet').get('topLevelComment').get('snippet').get('textOriginal'), comment.get('snippet').get('topLevelComment').get('snippet').get('publishedAt')]
+                    commentRow =[len(comments)+1, video, comment.get('snippet').get('topLevelComment').get('snippet').get('textOriginal'), comment.get('snippet').get('topLevelComment').get('snippet').get('publishedAt')]
                     comments.append(commentRow)
                     
                 nextPageToken = response.get('nextPageToken')
