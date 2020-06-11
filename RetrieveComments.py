@@ -156,7 +156,7 @@ def main():
 
     api_service_name = "youtube"
     api_version = "v3"
-    api_key= 'AIzaSyBETL5RIt9uC9fLtGcfPZLpM3A4XR1a4Fg'
+    api_key= 'INSERT'
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=api_key)
