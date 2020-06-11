@@ -35,7 +35,7 @@ def get_comments(youtube):
         with open('videos_visited.txt', 'r') as file:
             alreadyVisited = file.read().split(',')
             # delete already visited out of to id array
-            videoIds = [i for i in videoIds if i not in alreadyVisited] 
+            videoIds = [i for i in videoIds if i not in alreadyVisited]
 
     savegame = []
     if os.path.isfile('savegame.txt'):
@@ -49,7 +49,7 @@ def get_comments(youtube):
 
             #check if some comments for current video were already scraped
             if not savegame or savegame[0] is not video:
-                
+
                 # request for first page ordered by relevance
                 request = youtube.commentThreads().list(
                     part="snippet",
@@ -67,10 +67,10 @@ def get_comments(youtube):
                         commentDisabled.append(video)
                         #save video id to visited array
                         visited.append(video)
-                        
-                        print(err)                       
+
+                        print(err)
                         continue
-                    
+
                     if err.resp.status == 404:
                         # if error status is 404, video is not available
                         notAvailable.append(video)
@@ -87,7 +87,7 @@ def get_comments(youtube):
                     commentRow =[len(comments)+1, video, comment.get('snippet').get('topLevelComment').get('snippet').get('textOriginal'), comment.get('snippet').get('topLevelComment').get('snippet').get('publishedAt')]
                     comments.append(commentRow)
 
-                
+
                 nextPageToken = response.get('nextPageToken')
 
             else:
@@ -120,7 +120,7 @@ def get_comments(youtube):
                 for comment in response.get('items'):
                     commentRow =[len(comments)+1, video, comment.get('snippet').get('topLevelComment').get('snippet').get('textOriginal'), comment.get('snippet').get('topLevelComment').get('snippet').get('publishedAt')]
                     comments.append(commentRow)
-                    
+
                 nextPageToken = response.get('nextPageToken')
 
         else:
@@ -131,7 +131,7 @@ def get_comments(youtube):
     with open('comments.csv', 'a', encoding="utf-8", newline='') as file:
         writer = csv.writer(file)
         writer.writerows(comments)
-            
+
     with open('videos_visited.txt', 'a') as file:
         appendString = "," + ','.join(visited)
         file.write(appendString)
@@ -156,7 +156,7 @@ def main():
 
     api_service_name = "youtube"
     api_version = "v3"
-    api_key= "INSERT HERE"
+    api_key= 'AIzaSyBETL5RIt9uC9fLtGcfPZLpM3A4XR1a4Fg'
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=api_key)
